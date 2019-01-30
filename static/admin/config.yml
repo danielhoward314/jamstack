@@ -1,8 +1,9 @@
 backend:
   name: github
-  repo: erquhart/gatsby-netlify-cms-example #replace with your username/repo
+  repo: danielhoward314/jamstack
 
 media_folder: static/assets
+public_folder: assets
 
 collections:
   - name: blog
